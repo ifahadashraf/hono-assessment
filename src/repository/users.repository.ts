@@ -1,4 +1,4 @@
-import { Low,  } from 'lowdb';
+import { Low } from 'lowdb';
 import { JSONFile } from 'lowdb/node';
 
 interface User {
